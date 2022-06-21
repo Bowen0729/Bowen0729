@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bowen0729
 - 📫 How to reach me bowen0729@qq.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bowen0729?theme=THEME_NAME)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bowen0729?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
